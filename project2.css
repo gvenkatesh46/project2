@@ -1,0 +1,69 @@
+.top{
+                    background-color:darkgray;
+                    text-align:center;
+                    padding:90px;
+                    padding-top:20px;
+                    padding-bottom:50px;
+
+                }
+                .container{
+                    margin-left:350px;
+                    margin-top:100px;
+                    border:2px solid black;
+                    padding:10px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    border-radius:10px;
+                    margin-right:350px;
+                }
+                .bio,#a1234{
+                   text-align:center;
+                   
+                }
+                .skills{
+                    
+                    
+                    margin-left:350px;
+                    margin-top:50px;
+                    border:2px solid black;
+                    padding:20px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    border-radius:10px;
+                    margin-right:350px;
+                }
+                #a1{
+                    text-align:center;
+                    background-color:lightgrey;
+                }
+                #s1{
+                    text-align: center;
+                }
+                #EXPERICENCE{
+                    margin-left:350px;
+                    margin-top:50px;
+                    border:2px solid black;
+                    padding:20px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    border-radius:10px;
+                    margin-right:350px;
+                }
+                #contact{
+                    margin-left:350px;
+                    margin-top:50px;
+                    border:2px solid black;
+                    padding:20px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    border-radius:10px;
+                    margin-right:350px;
+                }
+                #a12{
+                    text-align:center;
+                }
+                #s1234{
+                    text-align:center;
+                }
+                .art1{
+                    text-align:center;
+                    background-color:gray;
+                    padding:20px;
+                    position:fixed;
+                }
